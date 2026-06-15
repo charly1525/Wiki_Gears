@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Graph - D3.js</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #ffffff;
+            overflow: hidden; /* Evitar scrollbars */
+        }
+        header {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 15px;
+            background: rgba(255, 255, 255, 0.9);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+            z-index: 10;
+            pointer-events: none; /* Dejar pasar los clics al canvas de D3 */
+        }
+        h2 { margin: 0; font-size: 1.5rem; color: #333; }
+        #svg-container { width: 100vw; height: 100vh; }
+        
+        /* Estilos SVG */
+        .links line { stroke: #999; stroke-opacity: 0.6; }
+        .nodes circle { stroke: #fff; stroke-width: 1.5px; cursor: pointer; }
+        .texts text {
+            font-size: 12px;
+            fill: #333;
+            pointer-events: none;
+            text-shadow: 1px 1px 0 #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h2>Ontología IA - Grafo D3.js</h2>
+    </header>
+
+    <div id="svg-container"></div>
+
+    <script>
+        // Configuración de dimensiones
+        const width = window.innerWidth;
+        const height = window.innerHeight;
+
+        // Crear el contenedor SVG
+        const svg = d3.select("#svg-container")
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height)
+            .call(d3.zoom().on("zoom", function (event) {
+                container.attr("transform", event.transform);
+            }));
+
+        const container = svg.append("g");
+        
+        // Escala de colores nativa de D3
+        const color = d3.scaleOrdinal(d3.schemeCategory10);
+
+        // Cargar los datos
+        d3.json("graph_data.json").then(function(graph) {
+            
+            // Configurar la simulación física
+            const simulation = d3.forceSimulation(graph.nodes)
+                .force("link", d3.forceLink(graph.links).id(d => d.id).distance(100))
+                .force("charge", d3.forceManyBody().strength(-300))
+                .force("center", d3.forceCenter(width / 2, height / 2))
+                .force("collision", d3.forceCollide().radius(d => d.val + 10)); // Evitar solapamiento
+
+            // Dibujar las líneas (aristas)
+            const link = container.append("g")
+                .attr("class", "links")
+                .selectAll("line")
+                .data(graph.links)
+                .enter().append("line")
+                .attr("stroke-width", d => Math.sqrt(d.value));
+
+            // Dibujar los nodos
+            const node = container.append("g")
+                .attr("class", "nodes")
+                .selectAll("circle")
+                .data(graph.nodes)
+                .enter().append("circle")
+                .attr("r", d => Math.max(5, d.val)) // Radio basado en el valor
+                .attr("fill", d => color(d.val))
+                .call(d3.drag() // Añadir comportamiento de arrastre
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended));
+
+            // Añadir etiquetas de texto
+            const text = container.append("g")
+                .attr("class", "texts")
+                .selectAll("text")
+                .data(graph.nodes)
+                .enter().append("text")
+                .attr("dx", d => d.val + 5) // Desplazar el texto según el tamaño del nodo
+                .attr("dy", ".35em")
+                .text(d => d.name);
+
+            // Actualizar posiciones en cada "tick" de la simulación
+            simulation.on("tick", () => {
+                link
+                    .attr("x1", d => d.source.x)
+                    .attr("y1", d => d.source.y)
+                    .attr("x2", d => d.target.x)
+                    .attr("y2", d => d.target.y);
+
+                node
+                    .attr("cx", d => d.x)
+                    .attr("cy", d => d.y);
+                    
+                text
+                    .attr("x", d => d.x)
+                    .attr("y", d => d.y);
+            });
+
+            // Funciones para el arrastre (Drag)
+            function dragstarted(event, d) {
+                if (!event.active) simulation.alphaTarget(0.3).restart();
+                d.fx = d.x;
+                d.fy = d.y;
+            }
+
+            function dragged(event, d) {
+                d.fx = event.x;
+                d.fy = event.y;
+            }
+
+            function dragended(event, d) {
+                if (!event.active) simulation.alphaTarget(0);
+                d.fx = null;
+                d.fy = null;
+            }
+        }).catch(error => {
+            console.error("Error al cargar graph_data.json:", error);
+            document.getElementById("svg-container").innerHTML = "<h3 style='margin-top:80px; text-align:center;'>Error cargando los datos. Recuerda servirlo localmente o subirlo a GitHub Pages.</h3>";
+        });
+    </script>
+</body>
+</html>
