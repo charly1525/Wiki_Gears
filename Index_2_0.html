@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gears of War - Radial Tree Knowledge Graph</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            background-color: #0f0f11; /* Fondo oscuro casi negro */
+            color: #eeeeee;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            overflow: hidden;
+        }
+        header {
+            position: absolute;
+            top: 0;
+            width: 100%;
+            padding: 15px 0;
+            text-align: center;
+            background: linear-gradient(180deg, #5a0000 0%, transparent 100%); /* Rojo sangre degradado */
+            border-bottom: 1px solid #c41e3a;
+            box-shadow: 0 4px 15px rgba(196, 30, 58, 0.4);
+            pointer-events: none;
+        }
+        h2 { margin: 0; font-size: 1.8rem; letter-spacing: 2px; text-transform: uppercase; text-shadow: 2px 2px 5px #000; }
+        svg { width: 100vw; height: 100vh; }
+        
+        /* Estilos del árbol de Gears */
+        .link { fill: none; stroke: #444; stroke-width: 1.5px; opacity: 0.8; }
+        .node circle { fill: #c41e3a; stroke: #111; stroke-width: 2px; cursor: pointer; }
+        .node circle:hover { fill: #ff3333; stroke: #fff; }
+        .node text { font-size: 13px; fill: #dcdcdc; text-shadow: 0px 1px 3px #000, 0px -1px 3px #000; pointer-events: none; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h2>Ontología Gears of War</h2>
+    </header>
+
+    <div id="graph"></div>
+
+    <script>
+        const width = window.innerWidth;
+        const height = window.innerHeight;
+        // Definir el radio para el árbol radial
+        const radius = Math.min(width, height) / 2 - 120; 
+
+        // Configurar el contenedor SVG
+        const svg = d3.select("#graph").append("svg")
+            .attr("width", width)
+            .attr("height", height)
+            .append("g")
+            // Centrar el grupo en la pantalla
+            .attr("transform", ⁠ translate(${width / 2},${height / 2 + 20}) ⁠);
+
+        // Consumir el JSON jerárquico
+        d3.json("tree_data.json").then(data => {
+            
+            // Configurar el layout Radial Tree
+            const tree = d3.tree()
+                .size([2 * Math.PI, radius])
+                .separation((a, b) => (a.parent == b.parent ? 1 : 2) / a.depth);
+
+            // Generar la jerarquía
+            const root = d3.hierarchy(data);
+            tree(root);
+
+            // Dibujar las conexiones (ramas)
+            svg.append("g")
+                .selectAll("path")
+                .data(root.links())
+                .join("path")
+                .attr("class", "link")
+                .attr("d", d3.linkRadial()
+                    .angle(d => d.x)
+                    .radius(d => d.y));
+
+            // Colocar los nodos
+            const node = svg.append("g")
+                .selectAll("g")
+                .data(root.descendants())
+                .join("g")
+                .attr("class", "node")
+                .attr("transform", d => `
+                    rotate(${d.x * 180 / Math.PI - 90})
+                    translate(${d.y},0)
+                `);
+
+            // Añadir los puntos (Círculos)
+            node.append("circle")
+                .attr("r", d => d.depth === 0 ? 10 : (d.children ? 7 : 4))
+                .attr("fill", d => d.depth === 0 ? "#ffffff" : (d.depth === 1 ? "#8a0303" : "#c41e3a"));
+
+            // Añadir el texto de forma que sea legible en los 360 grados
+            node.append("text")
+                .attr("dy", "0.31em")
+                .attr("x", d => d.x < Math.PI === !d.children ? 10 : -10)
+                .attr("text-anchor", d => d.x < Math.PI === !d.children ? "start" : "end")
+                .attr("transform", d => d.x >= Math.PI ? "rotate(180)" : null)
+                .text(d => d.data.name);
+
+        }).catch(error => {
+            console.error("Error al cargar tree_data.json:", error);
+        });
+    </script>
+</body>
+</html>
