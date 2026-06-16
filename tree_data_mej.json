@@ -1,0 +1,2195 @@
+{
+    "name": "Universo Gears of War",
+    "children": [
+        {
+            "name": "Personajes y Facciones",
+            "children": [
+                {
+                    "name": "Laboratorio"
+                },
+                {
+                    "name": "Medios"
+                },
+                {
+                    "name": "Personalización"
+                },
+                {
+                    "name": "Anya"
+                },
+                {
+                    "name": "Cinemática"
+                },
+                {
+                    "name": "Madison Carmine"
+                },
+                {
+                    "name": "Hermano"
+                },
+                {
+                    "name": "Jace Stratton"
+                },
+                {
+                    "name": "Partidas"
+                },
+                {
+                    "name": "Combate"
+                },
+                {
+                    "name": "Ezra Loomis Loomis"
+                },
+                {
+                    "name": "Componentes"
+                },
+                {
+                    "name": "Helicóptero"
+                },
+                {
+                    "name": "Multitud"
+                },
+                {
+                    "name": "Delta"
+                },
+                {
+                    "name": "Cantos"
+                },
+                {
+                    "name": "Presencia"
+                },
+                {
+                    "name": "Maneras"
+                },
+                {
+                    "name": "Reyna Diaz"
+                },
+                {
+                    "name": "Hondonada"
+                },
+                {
+                    "name": "Personal"
+                },
+                {
+                    "name": "Imágenes"
+                },
+                {
+                    "name": "Drones"
+                },
+                {
+                    "name": "Trenes"
+                },
+                {
+                    "name": "Dodgeball"
+                },
+                {
+                    "name": "Jinn"
+                },
+                {
+                    "name": "Fénix"
+                },
+                {
+                    "name": "Científico"
+                },
+                {
+                    "name": "Pareja"
+                },
+                {
+                    "name": "Equipo"
+                },
+                {
+                    "name": "Peleas"
+                },
+                {
+                    "name": "Myrrah Del Tempest"
+                },
+                {
+                    "name": "Alentador"
+                },
+                {
+                    "name": "Anillos"
+                },
+                {
+                    "name": "Losa"
+                },
+                {
+                    "name": "Líderes"
+                },
+                {
+                    "name": "Asentamiento"
+                },
+                {
+                    "name": "Tráiler"
+                },
+                {
+                    "name": "Bestia"
+                },
+                {
+                    "name": "Criminales"
+                },
+                {
+                    "name": "Fábrica"
+                },
+                {
+                    "name": "Capitán"
+                },
+                {
+                    "name": "Mayoría"
+                },
+                {
+                    "name": "Barcaza"
+                },
+                {
+                    "name": "Impacto"
+                },
+                {
+                    "name": "Extracción"
+                },
+                {
+                    "name": "Perfil"
+                },
+                {
+                    "name": "Michael Marcus Fenix"
+                },
+                {
+                    "name": "Aspecto"
+                },
+                {
+                    "name": "Rey De La Colina"
+                },
+                {
+                    "name": "Envuelto"
+                },
+                {
+                    "name": "Ofensiva"
+                },
+                {
+                    "name": "Sobrino"
+                },
+                {
+                    "name": "Planos"
+                },
+                {
+                    "name": "Fortificaciones"
+                },
+                {
+                    "name": "Desastre"
+                },
+                {
+                    "name": "Ministra Jinn"
+                },
+                {
+                    "name": "Sobrevivientes"
+                },
+                {
+                    "name": "Hype"
+                },
+                {
+                    "name": "Habilidades"
+                },
+                {
+                    "name": "Savage Kantus El"
+                },
+                {
+                    "name": "Infancia"
+                },
+                {
+                    "name": "Carisma"
+                },
+                {
+                    "name": "Reavers"
+                },
+                {
+                    "name": "Personalidad"
+                },
+                {
+                    "name": "Batería"
+                },
+                {
+                    "name": "Rotaciones"
+                },
+                {
+                    "name": "Llegada"
+                },
+                {
+                    "name": "Bandos"
+                },
+                {
+                    "name": "Experto De Horda - Acceso"
+                },
+                {
+                    "name": "Tormentos"
+                },
+                {
+                    "name": "Desapariciones"
+                },
+                {
+                    "name": "Aaron Griffin"
+                },
+                {
+                    "name": "Cantidades"
+                },
+                {
+                    "name": "Escuadrón Escorpio"
+                },
+                {
+                    "name": "Español"
+                },
+                {
+                    "name": "Hoffman"
+                },
+                {
+                    "name": "Adam"
+                },
+                {
+                    "name": "Órdenes"
+                },
+                {
+                    "name": "Centro Médico De Jacinto"
+                },
+                {
+                    "name": "Kadar"
+                },
+                {
+                    "name": "Puertas"
+                },
+                {
+                    "name": "Humanidad"
+                },
+                {
+                    "name": "Explosión"
+                },
+                {
+                    "name": "Principio"
+                },
+                {
+                    "name": "Noviembre"
+                },
+                {
+                    "name": "James Dominic"
+                },
+                {
+                    "name": "Making"
+                },
+                {
+                    "name": "Niles Samson"
+                },
+                {
+                    "name": "Exjugador"
+                },
+                {
+                    "name": "Incorporación"
+                },
+                {
+                    "name": "Manifestación"
+                },
+                {
+                    "name": "Reseteo"
+                },
+                {
+                    "name": "Teniente Kim"
+                },
+                {
+                    "name": "Contraofensiva"
+                },
+                {
+                    "name": "Miembros"
+                },
+                {
+                    "name": "Variedad"
+                },
+                {
+                    "name": "Brumaks"
+                },
+                {
+                    "name": "Bestias"
+                },
+                {
+                    "name": "Pasado"
+                },
+                {
+                    "name": "Krill"
+                },
+                {
+                    "name": "Raven"
+                },
+                {
+                    "name": "Acciones"
+                },
+                {
+                    "name": "Escopeta"
+                },
+                {
+                    "name": "Actividad"
+                },
+                {
+                    "name": "Señuelo"
+                },
+                {
+                    "name": "Criaturas"
+                },
+                {
+                    "name": "Trampas"
+                },
+                {
+                    "name": "Periodo"
+                },
+                {
+                    "name": "Generador"
+                },
+                {
+                    "name": "Mercy"
+                },
+                {
+                    "name": "Cinco"
+                },
+                {
+                    "name": "Transporte"
+                },
+                {
+                    "name": "Crímenes"
+                },
+                {
+                    "name": "Ultravioleta"
+                },
+                {
+                    "name": "Poderes"
+                },
+                {
+                    "name": "Sombras"
+                },
+                {
+                    "name": "Guardias Onyx"
+                },
+                {
+                    "name": "Frenéticos"
+                },
+                {
+                    "name": "Azura Y Pulmón Negro"
+                }
+            ]
+        },
+        {
+            "name": "Locust y Enjambre",
+            "children": [
+                {
+                    "name": "Neumonía Óxida"
+                },
+                {
+                    "name": "Laboratorio"
+                },
+                {
+                    "name": "Sustancia"
+                },
+                {
+                    "name": "Enfrentarse"
+                },
+                {
+                    "name": "Personalización"
+                },
+                {
+                    "name": "Berserkers"
+                },
+                {
+                    "name": "Lancer"
+                },
+                {
+                    "name": "Combate"
+                },
+                {
+                    "name": "Partidas"
+                },
+                {
+                    "name": "Vertedero"
+                },
+                {
+                    "name": "María"
+                },
+                {
+                    "name": "Enjambres"
+                },
+                {
+                    "name": "Población"
+                },
+                {
+                    "name": "Vivía"
+                },
+                {
+                    "name": "Delta"
+                },
+                {
+                    "name": "Hondonada"
+                },
+                {
+                    "name": "Petición"
+                },
+                {
+                    "name": "Helicópteros"
+                },
+                {
+                    "name": "Drones"
+                },
+                {
+                    "name": "Científico"
+                },
+                {
+                    "name": "Pouncer"
+                },
+                {
+                    "name": "Funcionamiento"
+                },
+                {
+                    "name": "Pareja"
+                },
+                {
+                    "name": "Inmunidad"
+                },
+                {
+                    "name": "Equipo"
+                },
+                {
+                    "name": "Campaña"
+                },
+                {
+                    "name": "Planeta Sera"
+                },
+                {
+                    "name": "Bestia"
+                },
+                {
+                    "name": "Contenedor"
+                },
+                {
+                    "name": "Cavernas"
+                },
+                {
+                    "name": "Fábrica"
+                },
+                {
+                    "name": "Mayoría"
+                },
+                {
+                    "name": "Distancia"
+                },
+                {
+                    "name": "Barcaza"
+                },
+                {
+                    "name": "Plataforma"
+                },
+                {
+                    "name": "Extracción"
+                },
+                {
+                    "name": "Clases"
+                },
+                {
+                    "name": "Drone Swarm"
+                },
+                {
+                    "name": "Ferocidad"
+                },
+                {
+                    "name": "Aspecto"
+                },
+                {
+                    "name": "Forastera"
+                },
+                {
+                    "name": "Carreteras"
+                },
+                {
+                    "name": "Ofensiva"
+                },
+                {
+                    "name": "Obstáculos"
+                },
+                {
+                    "name": "Surgió"
+                },
+                {
+                    "name": "Sobrevivientes"
+                },
+                {
+                    "name": "Habilidades"
+                },
+                {
+                    "name": "Espacios"
+                },
+                {
+                    "name": "Convoy"
+                },
+                {
+                    "name": "Reavers"
+                },
+                {
+                    "name": "Llegada"
+                },
+                {
+                    "name": "Largos"
+                },
+                {
+                    "name": "Costado"
+                },
+                {
+                    "name": "Hoffman"
+                },
+                {
+                    "name": "Adam"
+                },
+                {
+                    "name": "Puertas"
+                },
+                {
+                    "name": "Principio"
+                },
+                {
+                    "name": "Humanidad"
+                },
+                {
+                    "name": "Explosión"
+                },
+                {
+                    "name": "Caballería"
+                },
+                {
+                    "name": "Distrito"
+                },
+                {
+                    "name": "Concepto"
+                },
+                {
+                    "name": "Variedad"
+                },
+                {
+                    "name": "Legado"
+                },
+                {
+                    "name": "Febrero"
+                },
+                {
+                    "name": "Bestias"
+                },
+                {
+                    "name": "Referencia"
+                },
+                {
+                    "name": "Raven"
+                },
+                {
+                    "name": "Municiones"
+                },
+                {
+                    "name": "Género"
+                },
+                {
+                    "name": "Visibilidad"
+                },
+                {
+                    "name": "Transportarlos"
+                },
+                {
+                    "name": "Señuelo"
+                },
+                {
+                    "name": "Criaturas"
+                },
+                {
+                    "name": "Skyline"
+                },
+                {
+                    "name": "Ejecuciones"
+                },
+                {
+                    "name": "Mercy"
+                },
+                {
+                    "name": "Sembrador"
+                },
+                {
+                    "name": "Transporte"
+                },
+                {
+                    "name": "Efecto"
+                },
+                {
+                    "name": "Cnv Pomeroy"
+                },
+                {
+                    "name": "Juvies"
+                },
+                {
+                    "name": "Aldeanos"
+                },
+                {
+                    "name": "Acontecimientos"
+                },
+                {
+                    "name": "Rondas"
+                },
+                {
+                    "name": "Proyectos"
+                },
+                {
+                    "name": "Avance"
+                },
+                {
+                    "name": "Escaramuzas"
+                },
+                {
+                    "name": "Control"
+                },
+                {
+                    "name": "Lanzallamas"
+                },
+                {
+                    "name": "Oponentes"
+                },
+                {
+                    "name": "Dizzy Waslin"
+                },
+                {
+                    "name": "Diciembre"
+                },
+                {
+                    "name": "Ciudad"
+                },
+                {
+                    "name": "Familia"
+                },
+                {
+                    "name": "Meseta"
+                },
+                {
+                    "name": "Rescate"
+                },
+                {
+                    "name": "Enemigo"
+                },
+                {
+                    "name": "Resultado"
+                },
+                {
+                    "name": "Encuentres"
+                },
+                {
+                    "name": "Ocasiones"
+                },
+                {
+                    "name": "Cole"
+                },
+                {
+                    "name": "Tardar"
+                },
+                {
+                    "name": "Kraskswarm"
+                },
+                {
+                    "name": "Superficie"
+                },
+                {
+                    "name": "Seguridad"
+                },
+                {
+                    "name": "Skorge"
+                },
+                {
+                    "name": "Excepciones"
+                },
+                {
+                    "name": "Fuerzas"
+                },
+                {
+                    "name": "Poblado"
+                },
+                {
+                    "name": "Geopardo"
+                },
+                {
+                    "name": "Barreras"
+                },
+                {
+                    "name": "Recompensa"
+                },
+                {
+                    "name": "Sera"
+                },
+                {
+                    "name": "Tentáculos"
+                },
+                {
+                    "name": "Genocidio"
+                },
+                {
+                    "name": "El Pomeroy"
+                },
+                {
+                    "name": "Laura Bailey"
+                },
+                {
+                    "name": "Túneles"
+                },
+                {
+                    "name": "Tempest"
+                }
+            ]
+        },
+        {
+            "name": "Escenarios e Historia",
+            "children": [
+                {
+                    "name": "Refugio) Haven"
+                },
+                {
+                    "name": "Estarás"
+                },
+                {
+                    "name": "Medios"
+                },
+                {
+                    "name": "Oleada"
+                },
+                {
+                    "name": "Inventario"
+                },
+                {
+                    "name": "Sitios"
+                },
+                {
+                    "name": "Combate"
+                },
+                {
+                    "name": "Delta"
+                },
+                {
+                    "name": "Conocer"
+                },
+                {
+                    "name": "Maneras"
+                },
+                {
+                    "name": "Petición"
+                },
+                {
+                    "name": "Personal"
+                },
+                {
+                    "name": "Elementos"
+                },
+                {
+                    "name": "Drones"
+                },
+                {
+                    "name": "Imágenes"
+                },
+                {
+                    "name": "Desgracia"
+                },
+                {
+                    "name": "Equipo"
+                },
+                {
+                    "name": "Campaña"
+                },
+                {
+                    "name": "Halvo"
+                },
+                {
+                    "name": "Hospitales"
+                },
+                {
+                    "name": "Monasterio"
+                },
+                {
+                    "name": "Sistemas"
+                },
+                {
+                    "name": "Pobladores"
+                },
+                {
+                    "name": "Creador"
+                },
+                {
+                    "name": "Podrías"
+                },
+                {
+                    "name": "Mayoría"
+                },
+                {
+                    "name": "Encontraras"
+                },
+                {
+                    "name": "Plataforma"
+                },
+                {
+                    "name": "Jugabilidad"
+                },
+                {
+                    "name": "Extracción"
+                },
+                {
+                    "name": "Pureza"
+                },
+                {
+                    "name": "Aspecto"
+                },
+                {
+                    "name": "Carreteras"
+                },
+                {
+                    "name": "Negro"
+                },
+                {
+                    "name": "Fragor"
+                },
+                {
+                    "name": "Santuario"
+                },
+                {
+                    "name": "Convoy"
+                },
+                {
+                    "name": "Ónice Negro"
+                },
+                {
+                    "name": "Propósito"
+                },
+                {
+                    "name": "Minutos"
+                },
+                {
+                    "name": "Partir"
+                },
+                {
+                    "name": "Español"
+                },
+                {
+                    "name": "Adam"
+                },
+                {
+                    "name": "Principio"
+                },
+                {
+                    "name": "Administraciones"
+                },
+                {
+                    "name": "Noviembre"
+                },
+                {
+                    "name": "Anillo"
+                },
+                {
+                    "name": "Cambios"
+                },
+                {
+                    "name": "Troika"
+                },
+                {
+                    "name": "Enfoque"
+                },
+                {
+                    "name": "Golpes"
+                },
+                {
+                    "name": "Febrero"
+                },
+                {
+                    "name": "Municiones"
+                },
+                {
+                    "name": "Overrun"
+                },
+                {
+                    "name": "Maria"
+                },
+                {
+                    "name": "Ravers"
+                },
+                {
+                    "name": "Ciudadanos"
+                },
+                {
+                    "name": "Ambientación"
+                },
+                {
+                    "name": "Importancia"
+                },
+                {
+                    "name": "Videojuwgo"
+                },
+                {
+                    "name": "Gamesradar,​"
+                },
+                {
+                    "name": "Mercy"
+                },
+                {
+                    "name": "Francotiradores"
+                },
+                {
+                    "name": "Poderes"
+                },
+                {
+                    "name": "Invasiones"
+                },
+                {
+                    "name": "Guardias Theron"
+                },
+                {
+                    "name": "Acontecimientos"
+                },
+                {
+                    "name": "Actualización"
+                },
+                {
+                    "name": "Evacuados"
+                },
+                {
+                    "name": "Enfield"
+                },
+                {
+                    "name": "Jardines"
+                },
+                {
+                    "name": "Estudio"
+                },
+                {
+                    "name": "Decorado"
+                },
+                {
+                    "name": "Control"
+                },
+                {
+                    "name": "Memorial"
+                },
+                {
+                    "name": "Gracia"
+                },
+                {
+                    "name": "Ejército"
+                },
+                {
+                    "name": "Misiones"
+                },
+                {
+                    "name": "Diciembre"
+                },
+                {
+                    "name": "Ciudad"
+                },
+                {
+                    "name": "Características"
+                },
+                {
+                    "name": "Péndulo"
+                },
+                {
+                    "name": "Proyecto"
+                },
+                {
+                    "name": "México"
+                },
+                {
+                    "name": "Museo"
+                },
+                {
+                    "name": "Inmediaciones"
+                },
+                {
+                    "name": "Flanco"
+                },
+                {
+                    "name": "Enemigo"
+                },
+                {
+                    "name": "Pelotón Kilo"
+                },
+                {
+                    "name": "Mar Serano"
+                },
+                {
+                    "name": "Experiencia"
+                },
+                {
+                    "name": "Ocasiones"
+                },
+                {
+                    "name": "Cole"
+                },
+                {
+                    "name": "Comunidad"
+                },
+                {
+                    "name": "Exposiciones"
+                },
+                {
+                    "name": "Superficie"
+                },
+                {
+                    "name": "Tormenta"
+                },
+                {
+                    "name": "Consola"
+                },
+                {
+                    "name": "Poblado"
+                },
+                {
+                    "name": "Fuerzas"
+                },
+                {
+                    "name": "Michael Barrick"
+                },
+                {
+                    "name": "Rod Fergusson"
+                },
+                {
+                    "name": "Reapariciones"
+                },
+                {
+                    "name": "Título"
+                },
+                {
+                    "name": "Batallas"
+                },
+                {
+                    "name": "Sera"
+                },
+                {
+                    "name": "Principios"
+                },
+                {
+                    "name": "Habitantes"
+                },
+                {
+                    "name": "Cooperativo"
+                },
+                {
+                    "name": "Surgimiento"
+                },
+                {
+                    "name": "Bastión"
+                },
+                {
+                    "name": "Túneles"
+                },
+                {
+                    "name": "Haven"
+                },
+                {
+                    "name": "Francotirador"
+                },
+                {
+                    "name": "Evacuación"
+                },
+                {
+                    "name": "Maxim"
+                },
+                {
+                    "name": "Humanos"
+                },
+                {
+                    "name": "Mecánica"
+                },
+                {
+                    "name": "Descubierto"
+                },
+                {
+                    "name": "Avalancha"
+                }
+            ]
+        },
+        {
+            "name": "Armas y Tecnología",
+            "children": [
+                {
+                    "name": "Embar"
+                },
+                {
+                    "name": "Maestro"
+                },
+                {
+                    "name": "Localización"
+                },
+                {
+                    "name": "Cabeza"
+                },
+                {
+                    "name": "Enemigo"
+                },
+                {
+                    "name": "Contacto"
+                },
+                {
+                    "name": "Berserkers"
+                },
+                {
+                    "name": "Anya"
+                },
+                {
+                    "name": "Lancer"
+                },
+                {
+                    "name": "Convivencia"
+                },
+                {
+                    "name": "Combate"
+                },
+                {
+                    "name": "Boltok"
+                },
+                {
+                    "name": "Motosierra"
+                },
+                {
+                    "name": "Helicóptero"
+                },
+                {
+                    "name": "Máquinas"
+                },
+                {
+                    "name": "Vallas"
+                },
+                {
+                    "name": "Jugador"
+                },
+                {
+                    "name": "Provisión"
+                },
+                {
+                    "name": "Gracias"
+                },
+                {
+                    "name": "Maneras"
+                },
+                {
+                    "name": "Escaleras"
+                },
+                {
+                    "name": "Nassar Embry"
+                },
+                {
+                    "name": "Cambia"
+                },
+                {
+                    "name": "Dizzy"
+                },
+                {
+                    "name": "Explosivas"
+                },
+                {
+                    "name": "Disponibilidad"
+                },
+                {
+                    "name": "Elección"
+                },
+                {
+                    "name": "Segundos"
+                },
+                {
+                    "name": "Impresión"
+                },
+                {
+                    "name": "Posición"
+                },
+                {
+                    "name": "Lanzagranadas"
+                },
+                {
+                    "name": "Deebees"
+                },
+                {
+                    "name": "Hammerburst"
+                },
+                {
+                    "name": "Bayoneta"
+                },
+                {
+                    "name": "Equipo"
+                },
+                {
+                    "name": "Cuerpo"
+                },
+                {
+                    "name": "Arriba"
+                },
+                {
+                    "name": "Oportunidad"
+                },
+                {
+                    "name": "Escudo"
+                },
+                {
+                    "name": "Cobertura"
+                },
+                {
+                    "name": "Combates"
+                },
+                {
+                    "name": "Cooperativo"
+                },
+                {
+                    "name": "Artefactos"
+                },
+                {
+                    "name": "Desprevenidos"
+                },
+                {
+                    "name": "Depósito"
+                },
+                {
+                    "name": "Pase De Temporada"
+                },
+                {
+                    "name": "Francotirador"
+                },
+                {
+                    "name": "Theron"
+                },
+                {
+                    "name": "Anthony Carmine"
+                },
+                {
+                    "name": "Último"
+                },
+                {
+                    "name": "Descargas Granada Incendiaria Granada De Humo Granada De Fragmentación Cgo Granada"
+                },
+                {
+                    "name": "Persona"
+                },
+                {
+                    "name": "Arma"
+                },
+                {
+                    "name": "Tráiler"
+                },
+                {
+                    "name": "Humanos"
+                },
+                {
+                    "name": "Fábrica"
+                },
+                {
+                    "name": "Descubierto"
+                },
+                {
+                    "name": "Excavador): Dispara"
+                },
+                {
+                    "name": "Mayoría"
+                },
+                {
+                    "name": "Alba Pistola Boltok Escudo Acorazado"
+                },
+                {
+                    "name": "Armaduras"
+                },
+                {
+                    "name": "Carrera"
+                },
+                {
+                    "name": "Distancia"
+                },
+                {
+                    "name": "Remplazo"
+                },
+                {
+                    "name": "Martillos"
+                },
+                {
+                    "name": "Casa De Los Soberanos"
+                },
+                {
+                    "name": "Disparo"
+                },
+                {
+                    "name": "Arco Explosivo Mulcher Dropshot Cañón Triple"
+                },
+                {
+                    "name": "Fragmentación"
+                },
+                {
+                    "name": "Enforcers"
+                },
+                {
+                    "name": "Armas"
+                },
+                {
+                    "name": "Muerte"
+                },
+                {
+                    "name": "Tienes"
+                },
+                {
+                    "name": "Tiempo"
+                },
+                {
+                    "name": "Excelencia"
+                },
+                {
+                    "name": "Tienda"
+                },
+                {
+                    "name": "Camiones"
+                },
+                {
+                    "name": "Octubre"
+                },
+                {
+                    "name": "Aparatos"
+                },
+                {
+                    "name": "Cantidad"
+                },
+                {
+                    "name": "Granadas"
+                },
+                {
+                    "name": "Sembradores"
+                },
+                {
+                    "name": "Manera"
+                },
+                {
+                    "name": "Potencia"
+                },
+                {
+                    "name": "Oponente"
+                },
+                {
+                    "name": "Excavadores"
+                },
+                {
+                    "name": "Oleadas"
+                },
+                {
+                    "name": "Gears"
+                },
+                {
+                    "name": "Imulsión Lethya"
+                },
+                {
+                    "name": "Evoluciona"
+                },
+                {
+                    "name": "Disparos"
+                },
+                {
+                    "name": "Pistola"
+                },
+                {
+                    "name": "Almacén"
+                },
+                {
+                    "name": "Temporada"
+                },
+                {
+                    "name": "Sierra"
+                },
+                {
+                    "name": "Martillo"
+                },
+                {
+                    "name": "Torreta"
+                },
+                {
+                    "name": "Mulcher"
+                },
+                {
+                    "name": "Absoluto"
+                },
+                {
+                    "name": "Cadencia"
+                },
+                {
+                    "name": "Guardias"
+                },
+                {
+                    "name": "Evites"
+                },
+                {
+                    "name": "Infancia"
+                },
+                {
+                    "name": "Protagonistas"
+                },
+                {
+                    "name": "Compañeros"
+                },
+                {
+                    "name": "Raven Caído"
+                },
+                {
+                    "name": "Caminos"
+                },
+                {
+                    "name": "Juegos"
+                },
+                {
+                    "name": "Multijugador"
+                },
+                {
+                    "name": "Revista"
+                },
+                {
+                    "name": "Supervivencia"
+                },
+                {
+                    "name": "Elevador"
+                },
+                {
+                    "name": "Duelos"
+                },
+                {
+                    "name": "Comienzo"
+                },
+                {
+                    "name": "Martillo Del Alba"
+                },
+                {
+                    "name": "Opción"
+                },
+                {
+                    "name": "Ferias"
+                },
+                {
+                    "name": "Hombres"
+                },
+                {
+                    "name": "Torneos"
+                },
+                {
+                    "name": "Overkill"
+                }
+            ]
+        },
+        {
+            "name": "Desarrollo y Recepción",
+            "children": [
+                {
+                    "name": "Damon Baird"
+                },
+                {
+                    "name": "Semana"
+                },
+                {
+                    "name": "Actualizaciones"
+                },
+                {
+                    "name": "Metro"
+                },
+                {
+                    "name": "Rescate"
+                },
+                {
+                    "name": "Experiencia"
+                },
+                {
+                    "name": "Oleada"
+                },
+                {
+                    "name": "Anya"
+                },
+                {
+                    "name": "Combate"
+                },
+                {
+                    "name": "Partidas"
+                },
+                {
+                    "name": "James Dominic Fenix"
+                },
+                {
+                    "name": "Prólogo"
+                },
+                {
+                    "name": "Conferencia"
+                },
+                {
+                    "name": "Correcciones"
+                },
+                {
+                    "name": "Comunidad"
+                },
+                {
+                    "name": "Jugador"
+                },
+                {
+                    "name": "Anuncio"
+                },
+                {
+                    "name": "Apariciones"
+                },
+                {
+                    "name": "Multijugador Vía Xbox Live"
+                },
+                {
+                    "name": "Conocer"
+                },
+                {
+                    "name": "Evento"
+                },
+                {
+                    "name": "Phil Spencer"
+                },
+                {
+                    "name": "Antes"
+                },
+                {
+                    "name": "Consola"
+                },
+                {
+                    "name": "Según"
+                },
+                {
+                    "name": "Rod Fergusson"
+                },
+                {
+                    "name": "Estreno"
+                },
+                {
+                    "name": "Elección"
+                },
+                {
+                    "name": "Argumento"
+                },
+                {
+                    "name": "Munición"
+                },
+                {
+                    "name": "Imágenes"
+                },
+                {
+                    "name": "Título"
+                },
+                {
+                    "name": "Jack Tala"
+                },
+                {
+                    "name": "Jinn"
+                },
+                {
+                    "name": "Mercado"
+                },
+                {
+                    "name": "Compras"
+                },
+                {
+                    "name": "Millones"
+                },
+                {
+                    "name": "Ventas"
+                },
+                {
+                    "name": "Cliff Bleszinski"
+                },
+                {
+                    "name": "Hammerburst"
+                },
+                {
+                    "name": "Campaña"
+                },
+                {
+                    "name": "Derechos"
+                },
+                {
+                    "name": "Equipo"
+                },
+                {
+                    "name": "Posedores"
+                },
+                {
+                    "name": "El Pack De Mapas Lost Relics"
+                },
+                {
+                    "name": "Halvo"
+                },
+                {
+                    "name": "Página"
+                },
+                {
+                    "name": "Videoconsola"
+                },
+                {
+                    "name": "Logros"
+                },
+                {
+                    "name": "Intriga"
+                },
+                {
+                    "name": "Través"
+                },
+                {
+                    "name": "Haven"
+                },
+                {
+                    "name": "Desarrollo"
+                },
+                {
+                    "name": "120000"
+                },
+                {
+                    "name": "Errores"
+                },
+                {
+                    "name": "Camino"
+                },
+                {
+                    "name": "Diseñador"
+                },
+                {
+                    "name": "Compañía"
+                },
+                {
+                    "name": "Warzone"
+                },
+                {
+                    "name": "Persona"
+                },
+                {
+                    "name": "América Del Norte"
+                },
+                {
+                    "name": "Salida"
+                },
+                {
+                    "name": "Tráiler"
+                },
+                {
+                    "name": "Epic Games"
+                },
+                {
+                    "name": "Invasión"
+                },
+                {
+                    "name": "Agora"
+                },
+                {
+                    "name": "Lanzamiento"
+                },
+                {
+                    "name": "Máquina"
+                },
+                {
+                    "name": "Armaduras"
+                },
+                {
+                    "name": "Mansión"
+                },
+                {
+                    "name": "Delicias"
+                },
+                {
+                    "name": "Distancia"
+                },
+                {
+                    "name": "Plataforma"
+                },
+                {
+                    "name": "Desarrolladores"
+                },
+                {
+                    "name": "Pregunta"
+                },
+                {
+                    "name": "Programador"
+                },
+                {
+                    "name": "Producción"
+                },
+                {
+                    "name": "Australia"
+                },
+                {
+                    "name": "Mejoras"
+                },
+                {
+                    "name": "Obstante"
+                },
+                {
+                    "name": "Ataque"
+                },
+                {
+                    "name": "Octubre"
+                },
+                {
+                    "name": "Recepción"
+                },
+                {
+                    "name": "Voluntad"
+                },
+                {
+                    "name": "Oleadas"
+                },
+                {
+                    "name": "Gears"
+                },
+                {
+                    "name": "Progreso"
+                },
+                {
+                    "name": "Historia"
+                },
+                {
+                    "name": "1000000"
+                },
+                {
+                    "name": "Acceso"
+                },
+                {
+                    "name": "Versión"
+                },
+                {
+                    "name": "Disparos"
+                },
+                {
+                    "name": "Temporada"
+                },
+                {
+                    "name": "Canales"
+                },
+                {
+                    "name": "Franquicia"
+                },
+                {
+                    "name": "Servicio"
+                },
+                {
+                    "name": "Martillo"
+                },
+                {
+                    "name": "Periodistas"
+                },
+                {
+                    "name": "Ayudarla\".​"
+                },
+                {
+                    "name": "Ocasión"
+                },
+                {
+                    "name": "Protagonistas"
+                },
+                {
+                    "name": "Lanzamientos"
+                },
+                {
+                    "name": "Partida Contra Ia"
+                },
+                {
+                    "name": "Hivebusters"
+                },
+                {
+                    "name": "Requerimientos"
+                },
+                {
+                    "name": "Mercadotecnia"
+                },
+                {
+                    "name": "Personas"
+                },
+                {
+                    "name": "Multijugador"
+                },
+                {
+                    "name": "Entrega"
+                },
+                {
+                    "name": "Delicia"
+                },
+                {
+                    "name": "Programa"
+                },
+                {
+                    "name": "Martillo Del Alba"
+                },
+                {
+                    "name": "Cross-Save"
+                },
+                {
+                    "name": "Perdición"
+                },
+                {
+                    "name": "Código"
+                },
+                {
+                    "name": "Ejecución"
+                },
+                {
+                    "name": "Wayback Machine"
+                },
+                {
+                    "name": "Exclusiva"
+                },
+                {
+                    "name": "Char"
+                },
+                {
+                    "name": "Cuanto"
+                }
+            ]
+        },
+        {
+            "name": "Conceptos Generales",
+            "children": [
+                {
+                    "name": "Neumonía Óxida"
+                },
+                {
+                    "name": "Laboratorio"
+                },
+                {
+                    "name": "Ladera"
+                },
+                {
+                    "name": "Restaurante"
+                },
+                {
+                    "name": "Guerreros"
+                },
+                {
+                    "name": "Oleada"
+                },
+                {
+                    "name": "Personalización"
+                },
+                {
+                    "name": "Combate"
+                },
+                {
+                    "name": "Partidas"
+                },
+                {
+                    "name": "María"
+                },
+                {
+                    "name": "Neblina"
+                },
+                {
+                    "name": "Helicóptero"
+                },
+                {
+                    "name": "Delta"
+                },
+                {
+                    "name": "Biblioteca"
+                },
+                {
+                    "name": "Distancias"
+                },
+                {
+                    "name": "Heridas"
+                },
+                {
+                    "name": "Estructuras"
+                },
+                {
+                    "name": "Hondonada"
+                },
+                {
+                    "name": "Mauler"
+                },
+                {
+                    "name": "Tumba De Los Desconocidos"
+                },
+                {
+                    "name": "Protección"
+                },
+                {
+                    "name": "Fénix"
+                },
+                {
+                    "name": "Científico"
+                },
+                {
+                    "name": "Pouncer"
+                },
+                {
+                    "name": "Millones"
+                },
+                {
+                    "name": "Pareja"
+                },
+                {
+                    "name": "Bayoneta"
+                },
+                {
+                    "name": "Obtención"
+                },
+                {
+                    "name": "Equipo"
+                },
+                {
+                    "name": "Gratificante"
+                },
+                {
+                    "name": "Anillos"
+                },
+                {
+                    "name": "Combates"
+                },
+                {
+                    "name": "Interruptores"
+                },
+                {
+                    "name": "Sistemas"
+                },
+                {
+                    "name": "John Dimaggio"
+                },
+                {
+                    "name": "Chatarra"
+                },
+                {
+                    "name": "Asentamiento"
+                },
+                {
+                    "name": "Cierre"
+                },
+                {
+                    "name": "Atlanta"
+                },
+                {
+                    "name": "Fábrica"
+                },
+                {
+                    "name": "Televisión"
+                },
+                {
+                    "name": "Cóndor"
+                },
+                {
+                    "name": "Solitaria"
+                },
+                {
+                    "name": "Coches"
+                },
+                {
+                    "name": "Ámbito"
+                },
+                {
+                    "name": "Maleza"
+                },
+                {
+                    "name": "Distancia"
+                },
+                {
+                    "name": "Situaciones"
+                },
+                {
+                    "name": "Impacto"
+                },
+                {
+                    "name": "Jugabilidad"
+                },
+                {
+                    "name": "Comprándolos"
+                },
+                {
+                    "name": "Clases"
+                },
+                {
+                    "name": "Checkout"
+                },
+                {
+                    "name": "Sunset Overdrive"
+                },
+                {
+                    "name": "Luchadores"
+                },
+                {
+                    "name": "Santuario"
+                },
+                {
+                    "name": "Estirpe"
+                },
+                {
+                    "name": "Colonia"
+                },
+                {
+                    "name": "Infancia"
+                },
+                {
+                    "name": "Propósito"
+                },
+                {
+                    "name": "Raven Caído"
+                },
+                {
+                    "name": "Persecución"
+                },
+                {
+                    "name": "Reducto"
+                },
+                {
+                    "name": "Posibilidades"
+                },
+                {
+                    "name": "Ayuntamiento"
+                },
+                {
+                    "name": "Cinemáticas"
+                },
+                {
+                    "name": "Respawn"
+                },
+                {
+                    "name": "Código"
+                },
+                {
+                    "name": "Adam"
+                },
+                {
+                    "name": "Carros"
+                },
+                {
+                    "name": "Acusaciones"
+                },
+                {
+                    "name": "Gloria"
+                },
+                {
+                    "name": "Kadar"
+                },
+                {
+                    "name": "Principio"
+                },
+                {
+                    "name": "Humanidad"
+                },
+                {
+                    "name": "Explosión"
+                },
+                {
+                    "name": "Eutanasia"
+                },
+                {
+                    "name": "Puertas"
+                },
+                {
+                    "name": "Premio"
+                },
+                {
+                    "name": "Noviembre"
+                },
+                {
+                    "name": "Cementerios"
+                },
+                {
+                    "name": "Marcha"
+                },
+                {
+                    "name": "Electricidad"
+                },
+                {
+                    "name": "Miembros"
+                },
+                {
+                    "name": "Febrero"
+                },
+                {
+                    "name": "Aparato"
+                },
+                {
+                    "name": "Repetidamente"
+                },
+                {
+                    "name": "Derrotas"
+                },
+                {
+                    "name": "Raven"
+                },
+                {
+                    "name": "Además"
+                },
+                {
+                    "name": "Alrededor"
+                },
+                {
+                    "name": "Europa"
+                },
+                {
+                    "name": "Respeto"
+                },
+                {
+                    "name": "Visibilidad"
+                },
+                {
+                    "name": "Limpie"
+                },
+                {
+                    "name": "Ejecuciones"
+                },
+                {
+                    "name": "Generador"
+                },
+                {
+                    "name": "Francotiradores"
+                },
+                {
+                    "name": "Desventaja"
+                },
+                {
+                    "name": "Estómago"
+                },
+                {
+                    "name": "Revoltosos"
+                },
+                {
+                    "name": "Maravillas"
+                },
+                {
+                    "name": "Guardias Theron"
+                },
+                {
+                    "name": "Brinda"
+                },
+                {
+                    "name": "Entrega.​"
+                },
+                {
+                    "name": "Juvies"
+                },
+                {
+                    "name": "Packs"
+                },
+                {
+                    "name": "Acontecimientos"
+                },
+                {
+                    "name": "Rondas"
+                },
+                {
+                    "name": "Manzana"
+                },
+                {
+                    "name": "Actualización"
+                },
+                {
+                    "name": "Avance"
+                },
+                {
+                    "name": "Miembro"
+                },
+                {
+                    "name": "Posiciones"
+                },
+                {
+                    "name": "Jardines"
+                },
+                {
+                    "name": "Complejidad"
+                },
+                {
+                    "name": "Londres"
+                },
+                {
+                    "name": "Control"
+                },
+                {
+                    "name": "Oponentes"
+                },
+                {
+                    "name": "Asilo"
+                }
+            ]
+        }
+    ]
+}
