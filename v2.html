@@ -52,7 +52,7 @@
             .attr("transform", "translate(" + (width / 2) + "," + (height / 2 + 20) + ")");
 
         // Leer el archivo de datos JSON
-        d3.json("tree_data_mej.json").then(function(data) {
+        d3.json("tree_data.json").then(function(data) {
             
             var tree = d3.tree()
                 .size([2 * Math.PI, radius])
