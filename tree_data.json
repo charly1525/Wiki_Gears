@@ -1,0 +1,64 @@
+{
+    "name": "Universo Gears of War",
+    "children": [
+        {
+            "name": "CGO (Humanos)",
+            "children": [
+                {
+                    "name": "Cole"
+                },
+                {
+                    "name": "Damon Baird"
+                },
+                {
+                    "name": "Baird"
+                },
+                {
+                    "name": "Gears"
+                },
+                {
+                    "name": "August Cole"
+                }
+            ]
+        },
+        {
+            "name": "Enemigos (Locust/Enjambre)",
+            "children": []
+        },
+        {
+            "name": "Escenarios y Lugares",
+            "children": []
+        },
+        {
+            "name": "Tecnología y Armas",
+            "children": [
+                {
+                    "name": "Armamento"
+                }
+            ]
+        },
+        {
+            "name": "Videojuegos",
+            "children": [
+                {
+                    "name": "Gears of War 2"
+                },
+                {
+                    "name": "Gears 5"
+                },
+                {
+                    "name": "Gears of War 3"
+                },
+                {
+                    "name": "Gears of War"
+                },
+                {
+                    "name": "Gears of War 4"
+                },
+                {
+                    "name": "Gears of War: Judgment"
+                }
+            ]
+        }
+    ]
+}
