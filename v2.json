@@ -1,0 +1,575 @@
+{
+    "name": "Universo Gears",
+    "children": [
+        {
+            "name": "Personajes y Facciones",
+            "children": [
+                {
+                    "name": "Marcus"
+                },
+                {
+                    "name": "Locust"
+                },
+                {
+                    "name": "Pelotón"
+                },
+                {
+                    "name": "Líder"
+                },
+                {
+                    "name": "Baird"
+                },
+                {
+                    "name": "Escuadrón"
+                },
+                {
+                    "name": "Delta"
+                },
+                {
+                    "name": "Cole"
+                },
+                {
+                    "name": "Personajes"
+                },
+                {
+                    "name": "Equipo"
+                },
+                {
+                    "name": "Coalición"
+                },
+                {
+                    "name": "Guerra"
+                },
+                {
+                    "name": "Mapas"
+                },
+                {
+                    "name": "Kait"
+                },
+                {
+                    "name": "Padre"
+                },
+                {
+                    "name": "Gusano"
+                },
+                {
+                    "name": "Soldados"
+                },
+                {
+                    "name": "Soldado"
+                },
+                {
+                    "name": "Muerte"
+                },
+                {
+                    "name": "Ciudad"
+                },
+                {
+                    "name": "Ataque"
+                },
+                {
+                    "name": "Humanos"
+                },
+                {
+                    "name": "Raam"
+                },
+                {
+                    "name": "Supervivientes"
+                },
+                {
+                    "name": "Armas"
+                },
+                {
+                    "name": "Tiempo"
+                },
+                {
+                    "name": "General"
+                },
+                {
+                    "name": "Hoffman"
+                },
+                {
+                    "name": "Personaje"
+                },
+                {
+                    "name": "Partida"
+                }
+            ]
+        },
+        {
+            "name": "Locust y Enjambre",
+            "children": [
+                {
+                    "name": "Locust"
+                },
+                {
+                    "name": "Enemigo"
+                },
+                {
+                    "name": "Enemigos"
+                },
+                {
+                    "name": "Equipo"
+                },
+                {
+                    "name": "Ciudad"
+                },
+                {
+                    "name": "Horda"
+                },
+                {
+                    "name": "Lambent"
+                },
+                {
+                    "name": "Imulsión"
+                },
+                {
+                    "name": "Delta"
+                },
+                {
+                    "name": "Créditos"
+                },
+                {
+                    "name": "Kait"
+                },
+                {
+                    "name": "Grupo"
+                },
+                {
+                    "name": "Túneles"
+                },
+                {
+                    "name": "Criaturas"
+                },
+                {
+                    "name": "Supervivientes"
+                },
+                {
+                    "name": "Camino"
+                },
+                {
+                    "name": "Ataque"
+                },
+                {
+                    "name": "Jacinto"
+                },
+                {
+                    "name": "Humanidad"
+                },
+                {
+                    "name": "Baird"
+                },
+                {
+                    "name": "Especie"
+                },
+                {
+                    "name": "Guerra"
+                },
+                {
+                    "name": "Reina Myrrah"
+                },
+                {
+                    "name": "Oleadas"
+                },
+                {
+                    "name": "Hordas"
+                },
+                {
+                    "name": "Costo"
+                },
+                {
+                    "name": "Invasión"
+                },
+                {
+                    "name": "Fuerzas"
+                },
+                {
+                    "name": "Dificultad"
+                },
+                {
+                    "name": "Humanos"
+                }
+            ]
+        },
+        {
+            "name": "Escenarios e Historia",
+            "children": [
+                {
+                    "name": "Misión"
+                },
+                {
+                    "name": "Batalla"
+                },
+                {
+                    "name": "Ciudad"
+                },
+                {
+                    "name": "Historia"
+                },
+                {
+                    "name": "Campaña"
+                },
+                {
+                    "name": "Campo"
+                },
+                {
+                    "name": "Sera"
+                },
+                {
+                    "name": "Guerra"
+                },
+                {
+                    "name": "Baird"
+                },
+                {
+                    "name": "Final"
+                },
+                {
+                    "name": "Línea"
+                },
+                {
+                    "name": "Ejecución"
+                },
+                {
+                    "name": "Azura"
+                },
+                {
+                    "name": "Museo"
+                },
+                {
+                    "name": "Fuerzas"
+                },
+                {
+                    "name": "Poblado"
+                },
+                {
+                    "name": "Drones"
+                },
+                {
+                    "name": "Planeta"
+                },
+                {
+                    "name": "Equipo"
+                },
+                {
+                    "name": "Zona De Guerra"
+                },
+                {
+                    "name": "Warzone"
+                },
+                {
+                    "name": "Locust"
+                },
+                {
+                    "name": "Tierra"
+                },
+                {
+                    "name": "Armas"
+                },
+                {
+                    "name": "Humanos"
+                },
+                {
+                    "name": "Lucha"
+                },
+                {
+                    "name": "Septiembre"
+                },
+                {
+                    "name": "Equipos"
+                },
+                {
+                    "name": "Infames"
+                },
+                {
+                    "name": "Halvo Bay"
+                }
+            ]
+        },
+        {
+            "name": "Armas y Tecnología",
+            "children": [
+                {
+                    "name": "Granadas"
+                },
+                {
+                    "name": "Armas"
+                },
+                {
+                    "name": "Francotirador"
+                },
+                {
+                    "name": "Rifle"
+                },
+                {
+                    "name": "Lanzagranadas"
+                },
+                {
+                    "name": "Disparo"
+                },
+                {
+                    "name": "Equipo"
+                },
+                {
+                    "name": "Rifles"
+                },
+                {
+                    "name": "Lancer"
+                },
+                {
+                    "name": "Cuerpo"
+                },
+                {
+                    "name": "Hammerburst"
+                },
+                {
+                    "name": "Medio"
+                },
+                {
+                    "name": "Imulsión"
+                },
+                {
+                    "name": "Alcance"
+                },
+                {
+                    "name": "Martillo Del Alba"
+                },
+                {
+                    "name": "Pistola"
+                },
+                {
+                    "name": "Boltok"
+                },
+                {
+                    "name": "Pistolas"
+                },
+                {
+                    "name": "Arriba"
+                },
+                {
+                    "name": "Locust"
+                },
+                {
+                    "name": "Armadura"
+                },
+                {
+                    "name": "Asalto"
+                },
+                {
+                    "name": "Distancia"
+                },
+                {
+                    "name": "Fuego"
+                },
+                {
+                    "name": "Tiempo"
+                },
+                {
+                    "name": "Carrera"
+                },
+                {
+                    "name": "Posición"
+                },
+                {
+                    "name": "Puntos"
+                },
+                {
+                    "name": "Tejados"
+                },
+                {
+                    "name": "Almacén"
+                }
+            ]
+        },
+        {
+            "name": "Desarrollo y Recepción",
+            "children": [
+                {
+                    "name": "Microsoft"
+                },
+                {
+                    "name": "Mapas"
+                },
+                {
+                    "name": "Epic Games"
+                },
+                {
+                    "name": "Abril"
+                },
+                {
+                    "name": "Persona"
+                },
+                {
+                    "name": "Franquicia"
+                },
+                {
+                    "name": "Desarrollo"
+                },
+                {
+                    "name": "Acción"
+                },
+                {
+                    "name": "Contenido"
+                },
+                {
+                    "name": "Disparos"
+                },
+                {
+                    "name": "Octubre"
+                },
+                {
+                    "name": "Lanzamiento"
+                },
+                {
+                    "name": "Código"
+                },
+                {
+                    "name": "Multijugador"
+                },
+                {
+                    "name": "The Coalition"
+                },
+                {
+                    "name": "Noviembre"
+                },
+                {
+                    "name": "Paquete"
+                },
+                {
+                    "name": "Millones"
+                },
+                {
+                    "name": "Avance"
+                },
+                {
+                    "name": "Actualización"
+                },
+                {
+                    "name": "Experiencia"
+                },
+                {
+                    "name": "Fecha"
+                },
+                {
+                    "name": "Futuro"
+                },
+                {
+                    "name": "Gears"
+                },
+                {
+                    "name": "Oleada"
+                },
+                {
+                    "name": "Temporada"
+                },
+                {
+                    "name": "Motor"
+                },
+                {
+                    "name": "Enero"
+                },
+                {
+                    "name": "Argumento"
+                },
+                {
+                    "name": "Personas"
+                }
+            ]
+        },
+        {
+            "name": "Conceptos Generales",
+            "children": [
+                {
+                    "name": "Equipo"
+                },
+                {
+                    "name": "Mapas"
+                },
+                {
+                    "name": "Punto"
+                },
+                {
+                    "name": "Gusano"
+                },
+                {
+                    "name": "Tiempo"
+                },
+                {
+                    "name": "Marzo"
+                },
+                {
+                    "name": "Partida"
+                },
+                {
+                    "name": "Momento"
+                },
+                {
+                    "name": "Puntos"
+                },
+                {
+                    "name": "Paquete"
+                },
+                {
+                    "name": "Equipos"
+                },
+                {
+                    "name": "Estados Unidos"
+                },
+                {
+                    "name": "Cuerpo"
+                },
+                {
+                    "name": "Combate"
+                },
+                {
+                    "name": "Objetivo"
+                },
+                {
+                    "name": "Delta"
+                },
+                {
+                    "name": "Ataque"
+                },
+                {
+                    "name": "Jugabilidad"
+                },
+                {
+                    "name": "Rondas"
+                },
+                {
+                    "name": "Argumento"
+                },
+                {
+                    "name": "Ronda"
+                },
+                {
+                    "name": "Centro"
+                },
+                {
+                    "name": "Línea"
+                },
+                {
+                    "name": "Copias"
+                },
+                {
+                    "name": "Experiencia"
+                },
+                {
+                    "name": "Patio"
+                },
+                {
+                    "name": "Gana"
+                },
+                {
+                    "name": "Pantalla"
+                },
+                {
+                    "name": "Entrega"
+                },
+                {
+                    "name": "Fénix"
+                }
+            ]
+        }
+    ]
+}
