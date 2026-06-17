@@ -51,7 +51,7 @@
             .append("g")
             .attr("transform", "translate(" + (width / 2) + "," + (height / 2 + 30) + ")");
 
-        d3.json("v3.json").then(function(data) {
+        d3.json("tree_data_mejorado.json").then(function(data) {
             
             var tree = d3.tree()
                 .size([2 * Math.PI, radius])
