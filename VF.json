@@ -1,0 +1,405 @@
+{
+    "name": "Universo Gears",
+    "children": [
+        {
+            "name": "Personajes y Facciones",
+            "children": [
+                {
+                    "name": "Niles"
+                },
+                {
+                    "name": "María"
+                },
+                {
+                    "name": "Kilo"
+                },
+                {
+                    "name": "Damon"
+                },
+                {
+                    "name": "Escuadrón"
+                },
+                {
+                    "name": "Prescott"
+                },
+                {
+                    "name": "Cole"
+                },
+                {
+                    "name": "King"
+                },
+                {
+                    "name": "Kait"
+                },
+                {
+                    "name": "Nueva"
+                },
+                {
+                    "name": "Jacinto"
+                },
+                {
+                    "name": "Hoffman"
+                },
+                {
+                    "name": "Raam"
+                },
+                {
+                    "name": "Skorge"
+                },
+                {
+                    "name": "Delta"
+                },
+                {
+                    "name": "Fenix"
+                },
+                {
+                    "name": "También"
+                },
+                {
+                    "name": "Anya"
+                },
+                {
+                    "name": "Acto"
+                },
+                {
+                    "name": "Raven"
+                },
+                {
+                    "name": "Carmine"
+                },
+                {
+                    "name": "Dizzy"
+                },
+                {
+                    "name": "Dominic"
+                },
+                {
+                    "name": "Adam"
+                },
+                {
+                    "name": "Santiago"
+                }
+            ]
+        },
+        {
+            "name": "Locust y Enjambre",
+            "children": [
+                {
+                    "name": "Lambent"
+                },
+                {
+                    "name": "Ligera"
+                },
+                {
+                    "name": "Zona"
+                },
+                {
+                    "name": "Swarm"
+                },
+                {
+                    "name": "Halvo"
+                },
+                {
+                    "name": "Halvo Bay"
+                },
+                {
+                    "name": "Tempest"
+                },
+                {
+                    "name": "Reina Myrrah"
+                },
+                {
+                    "name": "Reina"
+                },
+                {
+                    "name": "Imulsión"
+                },
+                {
+                    "name": "Brumak"
+                },
+                {
+                    "name": "General"
+                },
+                {
+                    "name": "Nexus"
+                },
+                {
+                    "name": "Overrun"
+                },
+                {
+                    "name": "Exclusivo"
+                },
+                {
+                    "name": "Theron"
+                },
+                {
+                    "name": "Masa"
+                },
+                {
+                    "name": "Packs"
+                },
+                {
+                    "name": "Horda"
+                },
+                {
+                    "name": "Myrrah"
+                },
+                {
+                    "name": "Berserker"
+                },
+                {
+                    "name": "Bomba"
+                },
+                {
+                    "name": "Zona De Guerra"
+                },
+                {
+                    "name": "Enjambre"
+                },
+                {
+                    "name": "Hondonada"
+                }
+            ]
+        },
+        {
+            "name": "Escenarios e Historia",
+            "children": [
+                {
+                    "name": "Dark Corners"
+                },
+                {
+                    "name": "Mihn Young Kim"
+                },
+                {
+                    "name": "Santuario"
+                },
+                {
+                    "name": "Chocolate"
+                },
+                {
+                    "name": "Sera"
+                },
+                {
+                    "name": "Vectes"
+                },
+                {
+                    "name": "La Ciudad"
+                },
+                {
+                    "name": "Azura"
+                },
+                {
+                    "name": "Sangre"
+                },
+                {
+                    "name": "Corners"
+                },
+                {
+                    "name": "Marketplace"
+                },
+                {
+                    "name": "Mercy"
+                },
+                {
+                    "name": "Haven"
+                },
+                {
+                    "name": "Emergencia"
+                },
+                {
+                    "name": "Ningún"
+                },
+                {
+                    "name": "Dark"
+                },
+                {
+                    "name": "Carretera"
+                },
+                {
+                    "name": "Endeavour"
+                },
+                {
+                    "name": "Desipich"
+                },
+                {
+                    "name": "Monumento"
+                },
+                {
+                    "name": "México"
+                },
+                {
+                    "name": "Ciudad De México"
+                },
+                {
+                    "name": "Refugio"
+                },
+                {
+                    "name": "Char"
+                },
+                {
+                    "name": "Harbor"
+                }
+            ]
+        },
+        {
+            "name": "Armas y Tecnología",
+            "children": [
+                {
+                    "name": "Armas"
+                },
+                {
+                    "name": "Pase"
+                },
+                {
+                    "name": "Además"
+                },
+                {
+                    "name": "Martillo"
+                },
+                {
+                    "name": "Memorial"
+                },
+                {
+                    "name": "Hammerburst"
+                },
+                {
+                    "name": "Rifle"
+                },
+                {
+                    "name": "Después"
+                },
+                {
+                    "name": "Boltok"
+                },
+                {
+                    "name": "Alba"
+                },
+                {
+                    "name": "Gnasher"
+                },
+                {
+                    "name": "Raven Caído"
+                },
+                {
+                    "name": "Explosivo"
+                },
+                {
+                    "name": "Embry"
+                },
+                {
+                    "name": "Mapa"
+                },
+                {
+                    "name": "Escopeta"
+                },
+                {
+                    "name": "Mulcher"
+                },
+                {
+                    "name": "Tri-Shot"
+                },
+                {
+                    "name": "Asalto"
+                },
+                {
+                    "name": "Lancer"
+                },
+                {
+                    "name": "Embar"
+                },
+                {
+                    "name": "Gasolinera"
+                },
+                {
+                    "name": "Arriba"
+                },
+                {
+                    "name": "Griffin"
+                },
+                {
+                    "name": "Martillo Del Alba"
+                }
+            ]
+        },
+        {
+            "name": "Desarrollo y Recepción",
+            "children": [
+                {
+                    "name": "Mapas"
+                },
+                {
+                    "name": "Games"
+                },
+                {
+                    "name": "Baird"
+                },
+                {
+                    "name": "Arms"
+                },
+                {
+                    "name": "Xbox"
+                },
+                {
+                    "name": "Game"
+                },
+                {
+                    "name": "The Coalition"
+                },
+                {
+                    "name": "Judgment"
+                },
+                {
+                    "name": "Referencias"
+                },
+                {
+                    "name": "Ejecución"
+                },
+                {
+                    "name": "Microsoft"
+                },
+                {
+                    "name": "Relics"
+                },
+                {
+                    "name": "Marcus"
+                },
+                {
+                    "name": "Locust"
+                },
+                {
+                    "name": "Epic"
+                },
+                {
+                    "name": "Studios"
+                },
+                {
+                    "name": "Duelo"
+                },
+                {
+                    "name": "Lost"
+                },
+                {
+                    "name": "Live"
+                },
+                {
+                    "name": "Epic Games"
+                },
+                {
+                    "name": "Argumento"
+                },
+                {
+                    "name": "Call"
+                },
+                {
+                    "name": "Coalition"
+                },
+                {
+                    "name": "Windows"
+                },
+                {
+                    "name": "Gears"
+                }
+            ]
+        }
+    ]
+}
