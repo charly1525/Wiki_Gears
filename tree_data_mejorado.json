@@ -1,0 +1,485 @@
+{
+    "name": "Universo Gears",
+    "children": [
+        {
+            "name": "Personajes y Facciones",
+            "children": [
+                {
+                    "name": "Persona"
+                },
+                {
+                    "name": "Humanidad"
+                },
+                {
+                    "name": "Padre"
+                },
+                {
+                    "name": "Momento"
+                },
+                {
+                    "name": "Muerte"
+                },
+                {
+                    "name": "Resto"
+                },
+                {
+                    "name": "Tiempo"
+                },
+                {
+                    "name": "Ataque"
+                },
+                {
+                    "name": "Centro"
+                },
+                {
+                    "name": "Personajes"
+                },
+                {
+                    "name": "Armas"
+                },
+                {
+                    "name": "Guerra"
+                },
+                {
+                    "name": "Batalla"
+                },
+                {
+                    "name": "Cabeza"
+                },
+                {
+                    "name": "Ciudad"
+                },
+                {
+                    "name": "Enemigo"
+                },
+                {
+                    "name": "Mapas"
+                },
+                {
+                    "name": "Final"
+                },
+                {
+                    "name": "Modos"
+                },
+                {
+                    "name": "Disparos"
+                },
+                {
+                    "name": "Línea"
+                },
+                {
+                    "name": "Acción"
+                },
+                {
+                    "name": "Entrega"
+                },
+                {
+                    "name": "Contenido"
+                },
+                {
+                    "name": "Humanos"
+                }
+            ]
+        },
+        {
+            "name": "Locust y Enjambre",
+            "children": [
+                {
+                    "name": "Lambent"
+                },
+                {
+                    "name": "Halvo Bay"
+                },
+                {
+                    "name": "Reina Myrrah"
+                },
+                {
+                    "name": "Nexus"
+                },
+                {
+                    "name": "Tempest"
+                },
+                {
+                    "name": "Berserker"
+                },
+                {
+                    "name": "Chaps"
+                },
+                {
+                    "name": "Los Locust"
+                },
+                {
+                    "name": "Brumak"
+                },
+                {
+                    "name": "María"
+                },
+                {
+                    "name": "Lambents"
+                },
+                {
+                    "name": "Krills"
+                },
+                {
+                    "name": "Los Desgraciados"
+                },
+                {
+                    "name": "Neumonía Óxida"
+                },
+                {
+                    "name": "Myrrah"
+                },
+                {
+                    "name": "Torre De Reloj"
+                },
+                {
+                    "name": "Lizzie"
+                },
+                {
+                    "name": "Locust Berserkers"
+                },
+                {
+                    "name": "Reina Locust"
+                },
+                {
+                    "name": "Allí"
+                },
+                {
+                    "name": "Locust Gigantesca"
+                },
+                {
+                    "name": "Hanley"
+                },
+                {
+                    "name": "Planeta Sera"
+                },
+                {
+                    "name": "Barcos"
+                },
+                {
+                    "name": "Vivía"
+                }
+            ]
+        },
+        {
+            "name": "Escenarios e Historia",
+            "children": [
+                {
+                    "name": "Azura"
+                },
+                {
+                    "name": "General"
+                },
+                {
+                    "name": "Canales"
+                },
+                {
+                    "name": "Mansión"
+                },
+                {
+                    "name": "Hecho"
+                },
+                {
+                    "name": "Cárcel"
+                },
+                {
+                    "name": "Víctimas"
+                },
+                {
+                    "name": "Edades"
+                },
+                {
+                    "name": "Lanzamientos"
+                },
+                {
+                    "name": "Programas"
+                },
+                {
+                    "name": "Tribunal"
+                },
+                {
+                    "name": "Ingeniería"
+                },
+                {
+                    "name": "Paraíso"
+                },
+                {
+                    "name": "Tiendas"
+                },
+                {
+                    "name": "Abandono"
+                },
+                {
+                    "name": "Agujeros"
+                },
+                {
+                    "name": "Ciencias"
+                },
+                {
+                    "name": "Escuela"
+                },
+                {
+                    "name": "Biblioteca"
+                },
+                {
+                    "name": "Asedio"
+                },
+                {
+                    "name": "Cuartel"
+                },
+                {
+                    "name": "Ferocidad"
+                },
+                {
+                    "name": "Maravillas"
+                },
+                {
+                    "name": "Comunidades"
+                },
+                {
+                    "name": "Aguas"
+                }
+            ]
+        },
+        {
+            "name": "Armas y Tecnología",
+            "children": [
+                {
+                    "name": "Martillo Del Alba"
+                },
+                {
+                    "name": "Adam"
+                },
+                {
+                    "name": "Hammerburst"
+                },
+                {
+                    "name": "Después"
+                },
+                {
+                    "name": "Además"
+                },
+                {
+                    "name": "Arriba"
+                },
+                {
+                    "name": "Raven Caído"
+                },
+                {
+                    "name": "Boltok"
+                },
+                {
+                    "name": "Casa De Los Soberanos"
+                },
+                {
+                    "name": "Imulsión Lethya"
+                },
+                {
+                    "name": "Theron"
+                },
+                {
+                    "name": "Martillos Del Alba"
+                },
+                {
+                    "name": "Escopeta Gnasher"
+                },
+                {
+                    "name": "Arco Explosivo"
+                },
+                {
+                    "name": "Excavador): Dispara"
+                },
+                {
+                    "name": "Lanzallamas Abrasador"
+                },
+                {
+                    "name": "Arma"
+                },
+                {
+                    "name": "Embar"
+                },
+                {
+                    "name": "Swarms"
+                },
+                {
+                    "name": "Granada"
+                },
+                {
+                    "name": "Overkill"
+                },
+                {
+                    "name": "Fragmentación Locust"
+                },
+                {
+                    "name": "Pase De Temporada"
+                },
+                {
+                    "name": "Descargas Granada Incendiaria Granada De Humo Granada De Fragmentación Cgo Granada"
+                },
+                {
+                    "name": "Arco Explosivo Mulcher Dropshot Cañón Triple"
+                }
+            ]
+        },
+        {
+            "name": "Desarrollo y Recepción",
+            "children": [
+                {
+                    "name": "Microsoft"
+                },
+                {
+                    "name": "Epic Games"
+                },
+                {
+                    "name": "Referencias"
+                },
+                {
+                    "name": "The Coalition"
+                },
+                {
+                    "name": "Enlaces"
+                },
+                {
+                    "name": "Recepción"
+                },
+                {
+                    "name": "Rod Fergusson"
+                },
+                {
+                    "name": "Europa"
+                },
+                {
+                    "name": "Cliff Bleszinski"
+                },
+                {
+                    "name": "Kait Díaz"
+                },
+                {
+                    "name": "Epic"
+                },
+                {
+                    "name": "Agora"
+                },
+                {
+                    "name": "Halvo"
+                },
+                {
+                    "name": "Australia"
+                },
+                {
+                    "name": "América Del Norte"
+                },
+                {
+                    "name": "Actualizaciones"
+                },
+                {
+                    "name": "Electronic Entertainment Expo"
+                },
+                {
+                    "name": "Estación Tyro"
+                },
+                {
+                    "name": "Electronic Entertainment Expo 2010"
+                },
+                {
+                    "name": "Costos"
+                },
+                {
+                    "name": "Raam Shadow"
+                },
+                {
+                    "name": "Multijugador Vía Xbox Live"
+                },
+                {
+                    "name": "Fecha De Lanzamiento"
+                },
+                {
+                    "name": "Phil Spencer"
+                },
+                {
+                    "name": "Jack Tala"
+                }
+            ]
+        },
+        {
+            "name": "Conceptos Generales",
+            "children": [
+                {
+                    "name": "Estados Unidos"
+                },
+                {
+                    "name": "Gana"
+                },
+                {
+                    "name": "En Estados Unidos"
+                },
+                {
+                    "name": "De Compras"
+                },
+                {
+                    "name": "Las Vegas"
+                },
+                {
+                    "name": "Academia East Barricade"
+                },
+                {
+                    "name": "Alfa."
+                },
+                {
+                    "name": "Embry Square"
+                },
+                {
+                    "name": "Tumba De Los Desconocidos"
+                },
+                {
+                    "name": "Mausoleo"
+                },
+                {
+                    "name": "Estación De Tyro: Un Mapa"
+                },
+                {
+                    "name": "Gasolinera: Un Mapa"
+                },
+                {
+                    "name": "Torre Reloj"
+                },
+                {
+                    "name": "Pantano De Balas"
+                },
+                {
+                    "name": "Proceso: Mapa"
+                },
+                {
+                    "name": "Aplicarle"
+                },
+                {
+                    "name": "Betty"
+                },
+                {
+                    "name": "El King Raven"
+                },
+                {
+                    "name": "Clayton"
+                },
+                {
+                    "name": "Jimmy Kimmel Live"
+                },
+                {
+                    "name": "Marketing"
+                },
+                {
+                    "name": "Sun Kil Moon"
+                },
+                {
+                    "name": "Piloto"
+                },
+                {
+                    "name": "Mauler"
+                },
+                {
+                    "name": "Delmont “Del” Walker"
+                }
+            ]
+        }
+    ]
+}
